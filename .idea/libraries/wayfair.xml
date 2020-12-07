@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="wayfair">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/wayfair.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
